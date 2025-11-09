@@ -6,7 +6,7 @@ Hi! I'm Mannat 👋
 ## 💫 About Me
 - 🎓 First year @ **IIIT Allahabad**
 - 💻 Learning **DSA + Git&Github**
----
+
 ## ✨ A Small Story from College
 
 We once had a **Treasure Hunt** on campus with the permission to roam only till **4 AM**.  
